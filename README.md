@@ -65,7 +65,7 @@ My focus is on **NLP, RAG systems, Computer Vision, and applied Deep Learning**,
 |---|---|---|
 | [Restaurant RAG Chatbot](https://github.com/Abubakar4757/Restaurant-Rag-Chatbot) | Full-stack AI customer service chatbot with RAG, admin panel, and Render/Vercel deployment | LangChain · ChromaDB · FastAPI · React |
 | [Story2Audio](https://github.com/Abubakar4757/Story2Audio) | Microservice TTS pipeline with gRPC architecture and Kokoro TTS | Python · gRPC · Docker · Streamlit |
-|Human-Action-Recognition-using-Hybrid-CNN-Transformers | 93.37% on UCF-101 — hybrid model vs 3 baselines with full ablation study | PyTorch · MobileNetV3 · Transformer |
+|[Human-Action-Recognition-using-Hybrid-CNN-Transformers](https://github.com/Abubakar4757/Human-Action-Recognition-using-Hybrid-CNN-Transformers) | 93.37% on UCF-101 — hybrid model vs 3 baselines with full ablation study | PyTorch · MobileNetV3 · Transformer |
 ---
 
 ### GitHub Stats
