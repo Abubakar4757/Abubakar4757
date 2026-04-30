@@ -64,7 +64,7 @@ My focus is on **NLP, RAG systems, Computer Vision, and applied Deep Learning**,
 | Project | Description | Stack |
 |---|---|---|
 | [Restaurant RAG Chatbot](https://github.com/Abubakar4757/Restaurant-Rag-Chatbot) | Full-stack AI customer service chatbot with RAG, admin panel, and Render/Vercel deployment | LangChain · ChromaDB · FastAPI · React |
-| [Deep-Q-Network-Game-Agent](https://github.com/Abubakar4757/Story2Audio)](https://github.com/Abubakar4757/Deep-Q-Network-Game-Agent) | Deep Q-Network Game Agent | Python · gRPC · Docker · Streamlit |
+| [Deep-Q-Network-Game-Agent](https://github.com/Abubakar4757/Story2Audio) |(https://github.com/Abubakar4757/Deep-Q-Network-Game-Agent) | Deep Q-Network Game Agent | Python |
 |[Human-Action-Recognition-using-Hybrid-CNN-Transformers](https://github.com/Abubakar4757/Human-Action-Recognition-using-Hybrid-CNN-Transformers) | 93.37% on UCF-101 — hybrid model vs 3 baselines with full ablation study | PyTorch · MobileNetV3 · Transformer |
 ---
 
