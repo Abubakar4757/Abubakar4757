@@ -6,21 +6,21 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I'm an AI Engineering student at **FAST-NUCES Islamabad**, passionate about building things that actually work — not just notebooks that run once.
 
 My focus is on **NLP, RAG systems, Computer Vision, and applied Deep Learning**, with a strong bias toward shipping complete, end-to-end projects over tutorial-style code.
 
-- 🎓 BS in Artificial Intelligence — graduating **May 2026**
-- 🔭 Currently building: **Real-Time Sign Language Recognition** + improving my RAG chatbot architecture
-- 🌱 Learning: Hybrid retrieval systems, LSTM sequence modeling, streaming APIs
-- 🤝 Open to: Remote AI/ML roles, collaborations on applied AI projects
-- 📍 Based in Pakistan
+-  BS in Artificial Intelligence — graduating **May 2026**
+-  Currently building: **Real-Time Sign Language Recognition** + improving my RAG chatbot architecture
+-  Learning: Hybrid retrieval systems, LSTM sequence modeling, streaming APIs
+-  Open to: Remote AI/ML roles, collaborations on applied AI projects
+-  Based in Pakistan
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 
@@ -51,7 +51,7 @@ My focus is on **NLP, RAG systems, Computer Vision, and applied Deep Learning**,
 
 ---
 
-### 🔨 What I'm Building
+###  What I'm Building
 
 - **Real-Time Sign Language Recognition** — MediaPipe + LSTM, 93%+ accuracy, 30fps live webcam inference
 - **CNN-Transformer for Human Action Recognition** — 93.37% on UCF-101 with full ablation study
@@ -59,15 +59,13 @@ My focus is on **NLP, RAG systems, Computer Vision, and applied Deep Learning**,
 
 ---
 
-### 📌 Highlighted Projects
+###  Highlighted Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| 🤖 [Restaurant RAG Chatbot](https://github.com/Abubakar4757/Restaurant-Rag-Chatbot) | Full-stack AI customer service chatbot with RAG, admin panel, and Render/Vercel deployment | LangChain · ChromaDB · FastAPI · React |
-| 🎙️ [Story2Audio](https://github.com/Abubakar4757/Story2Audio) | Microservice TTS pipeline with gRPC architecture and Kokoro TTS | Python · gRPC · Docker · Streamlit |
-| 🧠 CNN-Transformer HAR | 93.37% on UCF-101 — hybrid model vs 3 baselines with full ablation study | PyTorch · MobileNetV3 · Transformer |
-| 🤟 Sign Language Recognition | Real-time ASL recognition, LSTM classifier, 30fps webcam inference | MediaPipe · PyTorch · LSTM · OpenCV |
-
+| [Restaurant RAG Chatbot](https://github.com/Abubakar4757/Restaurant-Rag-Chatbot) | Full-stack AI customer service chatbot with RAG, admin panel, and Render/Vercel deployment | LangChain · ChromaDB · FastAPI · React |
+| [Story2Audio](https://github.com/Abubakar4757/Story2Audio) | Microservice TTS pipeline with gRPC architecture and Kokoro TTS | Python · gRPC · Docker · Streamlit |
+| CNN-Transformer HAR | 93.37% on UCF-101 — hybrid model vs 3 baselines with full ablation study | PyTorch · MobileNetV3 · Transformer |
 ---
 
 ### 📊 GitHub Stats
@@ -87,7 +85,7 @@ My focus is on **NLP, RAG systems, Computer Vision, and applied Deep Learning**,
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 <div align="center">
 
