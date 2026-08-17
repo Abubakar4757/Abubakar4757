@@ -6,14 +6,35 @@
 
 ---
 
+### 🔨 Currently building
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+**Sufi Field Sales Tracker** — a solo-built, production system for a manufacturing company: GPS-verified field officer check-ins, offline-first sync, in-app order booking, and a real-time manager dashboard. Currently rolling out to 20 field officers.
+
+`Flutter` · `Django` · `PostGIS` · `React`
+
+**Real-time sign language recognizer** — LSTM-based sequence modeling on landmark data.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ### About me
 
 Final-year AI student at **FAST-NUCES Islamabad**, graduating Dec 2026. Most of my coursework and side projects are in NLP, computer vision, and applied deep learning.
 
-The project that's taught me the most lately isn't from a class, though — it's a field-sales tracking system I've been building solo for a real company (Sufi Soap & Chemical Industries): GPS-verified check-ins, offline-first sync, order booking, and a manager dashboard, currently in development for 20 field officers. Flutter, Django, PostGIS, React. First time taking something from "the company's problem" all the way to a running system, not a tutorial.
+The project that's taught me the most lately isn't from a class, though — it's the Sufi Soap & Chemical Industries field-ops app above. First time taking something from "the company's problem" all the way to a running system, not a tutorial.
 
 - BS in Artificial Intelligence — graduating May 2026
-- Currently building: a real-time sign language recognizer, and the Sufi field ops app above
 - Digging into: hybrid retrieval (BM25 + semantic), LSTM sequence modeling, streaming APIs
 - Open to remote AI/ML roles and applied AI collaborations
 - Based in Pakistan
@@ -65,14 +86,34 @@ The project that's taught me the most lately isn't from a class, though — it's
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abubakar4757&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakar4757&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abubakar4757&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6e40c9&icon_color=6e40c9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakar4757&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6e40c9" height="165"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Abubakar4757&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Abubakar4757&theme=tokyonight&hide_border=true&background=0D1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
+
+</div>
+
+> Note: the streak widget only counts contributions on public repos it can see. If your Sufi project or other private work isn't reflecting in the streak, that's why — GitHub's private contribution counting isn't consistently supported by third-party streak trackers yet.
+
+**Daily contribution graph** (green squares = days pushed)
+
+<div align="center">
+
+![Abubakar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abubakar4757&theme=react-dark&bg_color=0D1117&color=6e40c9&line=6e40c9&point=ffffff&hide_border=true)
+
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abubakar4757&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
 
 </div>
 
