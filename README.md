@@ -6,7 +6,7 @@
 
 ---
 
-### 🔨 Currently building
+### Currently building
 
 <div align="center">
 
