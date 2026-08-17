@@ -97,26 +97,12 @@ The project that's taught me the most lately isn't from a class, though — it's
 
 </div>
 
-> Note: the streak widget only counts contributions on public repos it can see. If your Sufi project or other private work isn't reflecting in the streak, that's why — GitHub's private contribution counting isn't consistently supported by third-party streak trackers yet.
->
-> These stat images run on free community-hosted servers, so occasionally one goes down or gets rate-limited and shows a broken image icon instead of loading. If that happens, it's usually temporary — refresh the page in a few minutes. If it stays broken for more than a day, let me know and I'll swap in a different mirror.
-
-**Contribution calendar** (green squares = days pushed, darker = more commits — same as your GitHub profile page)
+**Contribution calendar**
 
 <div align="center">
-
+<table><tr><td style="background-color:#ffffff; padding:10px;">
 <img src="https://ghchart.rshah.org/6e40c9/Abubakar4757" alt="Abubakar's GitHub contribution chart" />
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abubakar4757&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
-
+</td></tr></table>
 </div>
 
 ---
