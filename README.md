@@ -6,21 +6,21 @@
 
 ---
 
-### About Me
+### About me
 
-I'm an AI Engineering student at **FAST-NUCES Islamabad**, passionate about building things that actually work — not just notebooks that run once.
+Final-year AI student at **FAST-NUCES Islamabad**, graduating May 2026. Most of my coursework and side projects are in NLP, computer vision, and applied deep learning.
 
-My focus is on **NLP, RAG systems, Computer Vision, and applied Deep Learning**, with a strong bias toward shipping complete, end-to-end projects over tutorial-style code.
+The project that's taught me the most lately isn't from a class, though — it's a field-sales tracking system I've been building solo for a real company (Sufi Soap & Chemical Industries): GPS-verified check-ins, offline-first sync, order booking, and a manager dashboard, currently in development for 20 field officers. Flutter, Django, PostGIS, React. First time taking something from "the company's problem" all the way to a running system, not a tutorial.
 
--  BS in Artificial Intelligence — graduating **May 2026**
--  Currently building: **Real-Time Sign Language Recognition** + improving my RAG chatbot architecture
--  Learning: Hybrid retrieval systems, LSTM sequence modeling, streaming APIs
--  Open to: Remote AI/ML roles, collaborations on applied AI projects
--  Based in Pakistan
+- BS in Artificial Intelligence — graduating May 2026
+- Currently building: a real-time sign language recognizer, and the Sufi field ops app above
+- Digging into: hybrid retrieval (BM25 + semantic), LSTM sequence modeling, streaming APIs
+- Open to remote AI/ML roles and applied AI collaborations
+- Based in Pakistan
 
 ---
 
-###  Tech Stack
+### Tech stack
 
 **Languages**
 
@@ -39,36 +39,30 @@ My focus is on **NLP, RAG systems, Computer Vision, and applied Deep Learning**,
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 
-**Tools & Deployment**
+**Building & shipping**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
-###  What I'm Building
+### Highlighted projects
 
-- **Real-Time Sign Language Recognition** — MediaPipe + LSTM, 93%+ accuracy, 30fps live webcam inference
-- **CNN-Transformer for Human Action Recognition** — 93.37% on UCF-101 with full ablation study
-- **Upgrading my RAG chatbot** — adding hybrid BM25+semantic search, source attribution, and streaming responses
-
----
-
-###  Highlighted Projects
-
-| Project | Description | Stack |
+| Project | What it actually does | Stack |
 |---|---|---|
-| [Restaurant RAG Chatbot](https://github.com/Abubakar4757/Restaurant-Rag-Chatbot) | Full-stack AI customer service chatbot with RAG, admin panel, and Render/Vercel deployment | LangChain · ChromaDB · FastAPI · React |
-| [Deep-Q-Network-Game-Agent](https://github.com/Abubakar4757/Deep-Q-Network-Game-Agent) |A PyTorch implementation of Deep Q-Network (DQN) for Gymnasium environments (CartPole-v1, LunarLander-v3) | Deep Q-Network Game Agent | Python |
-|[Human-Action-Recognition-using-Hybrid-CNN-Transformers](https://github.com/Abubakar4757/Human-Action-Recognition-using-Hybrid-CNN-Transformers) | 93.37% on UCF-101 — hybrid model vs 3 baselines with full ablation study | PyTorch · MobileNetV3 · Transformer |
+| **Sufi Field Sales Tracker** *(private client project)* | Solo-built system for a manufacturing company to verify field officers' shop visits via GPS geofencing, replace their paper order-booking with an in-app flow, and give managers a real-time compliance + sales dashboard. Handles offline sync, idempotent retries, and role-based admin access. | Flutter · Django · PostGIS · React |
+| [Restaurant RAG Chatbot](https://github.com/Abubakar4757/Restaurant-Rag-Chatbot) | Full-stack customer service chatbot with retrieval-augmented generation, an admin panel, and a live deployment | LangChain · ChromaDB · FastAPI · React |
+| [Human Action Recognition (Hybrid CNN-Transformer)](https://github.com/Abubakar4757/Human-Action-Recognition-using-Hybrid-CNN-Transformers) | 93.37% on UCF-101, benchmarked against 3 baselines with a full ablation study | PyTorch · MobileNetV3 · Transformer |
+| [Deep Q-Network Game Agent](https://github.com/Abubakar4757/Deep-Q-Network-Game-Agent) | DQN implementation trained on Gymnasium environments (CartPole-v1, LunarLander-v3) | Python · PyTorch |
+
 ---
 
-### GitHub Stats
+### GitHub stats
 
 <div align="center">
 
@@ -85,7 +79,7 @@ My focus is on **NLP, RAG systems, Computer Vision, and applied Deep Learning**,
 
 ---
 
-### Let's Connect
+### Find me
 
 <div align="center">
 
