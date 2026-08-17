@@ -8,7 +8,7 @@
 
 ### About me
 
-Final-year AI student at **FAST-NUCES Islamabad**, graduating May 2026. Most of my coursework and side projects are in NLP, computer vision, and applied deep learning.
+Final-year AI student at **FAST-NUCES Islamabad**, graduating Dec 2026. Most of my coursework and side projects are in NLP, computer vision, and applied deep learning.
 
 The project that's taught me the most lately isn't from a class, though — it's a field-sales tracking system I've been building solo for a real company (Sufi Soap & Chemical Industries): GPS-verified check-ins, offline-first sync, order booking, and a manager dashboard, currently in development for 20 field officers. Flutter, Django, PostGIS, React. First time taking something from "the company's problem" all the way to a running system, not a tutorial.
 
@@ -25,7 +25,6 @@ The project that's taught me the most lately isn't from a class, though — it's
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
