@@ -86,24 +86,26 @@ The project that's taught me the most lately isn't from a class, though — it's
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abubakar4757&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6e40c9&icon_color=6e40c9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubakar4757&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6e40c9" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abubakar4757&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6e40c9&icon_color=6e40c9" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abubakar4757&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6e40c9" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Abubakar4757&theme=tokyonight&hide_border=true&background=0D1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Abubakar4757&theme=tokyonight&hide_border=true&background=0D1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9" height="165"/>
 
 </div>
 
 > Note: the streak widget only counts contributions on public repos it can see. If your Sufi project or other private work isn't reflecting in the streak, that's why — GitHub's private contribution counting isn't consistently supported by third-party streak trackers yet.
+>
+> These stat images run on free community-hosted servers, so occasionally one goes down or gets rate-limited and shows a broken image icon instead of loading. If that happens, it's usually temporary — refresh the page in a few minutes. If it stays broken for more than a day, let me know and I'll swap in a different mirror.
 
-**Daily contribution graph** (green squares = days pushed)
+**Contribution calendar** (green squares = days pushed, darker = more commits — same as your GitHub profile page)
 
 <div align="center">
 
-![Abubakar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abubakar4757&theme=react-dark&bg_color=0D1117&color=6e40c9&line=6e40c9&point=ffffff&hide_border=true)
+<img src="https://ghchart.rshah.org/6e40c9/Abubakar4757" alt="Abubakar's GitHub contribution chart" />
 
 </div>
 
@@ -113,7 +115,7 @@ The project that's taught me the most lately isn't from a class, though — it's
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abubakar4757&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Abubakar4757&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
 
 </div>
 
