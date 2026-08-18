@@ -97,16 +97,6 @@ The project that's taught me the most lately isn't from a class, though — it's
 
 </div>
 
-**Contribution calendar**
-
-<div align="center">
-<table><tr><td style="background-color:#ffffff; padding:10px;">
-<img src="https://ghchart.rshah.org/6e40c9/Abubakar4757" alt="Abubakar's GitHub contribution chart" />
-</td></tr></table>
-</div>
-
----
-
 ### Find me
 
 <div align="center">
