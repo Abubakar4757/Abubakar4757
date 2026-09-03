@@ -18,7 +18,6 @@
 
 `Flutter` · `Django` · `PostGIS` · `React`
 
-**Real-time sign language recognizer** — LSTM-based sequence modeling on landmark data.
 
 </td>
 </tr>
@@ -35,7 +34,6 @@ Final-year AI student at **FAST-NUCES Islamabad**, graduating Dec 2026. Most of 
 The project that's taught me the most lately isn't from a class, though — it's the Sufi Soap & Chemical Industries field-ops app above. First time taking something from "the company's problem" all the way to a running system, not a tutorial.
 
 - BS in Artificial Intelligence — graduating Dec 2026
-- Digging into: hybrid retrieval (BM25 + semantic), LSTM sequence modeling, streaming APIs
 - Open to remote AI/ML roles and applied AI collaborations
 - Based in Pakistan
 
